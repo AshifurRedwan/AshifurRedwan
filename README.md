@@ -15,7 +15,7 @@ Turning raw data into actionable insights, automating workflows & building dashb
 - 🎯 Passionate about **Data Analytics, Machine Learning & KPI Monitoring**  
 - 🛠️ Skilled in **Python, SQL, Power BI** & Telecom Network Optimization  
 - 🎓 B.Sc. in Electronics & Telecommunication Engineering from **CUET**  
-- 🏆 Certified in **Google Data Analytics**, **Python for Everybody**, **SQL**  
+- 🏆 Certified in **Google Data Analytics**, **Python for Everybody**, and **SQL**  
 - ♟️ Former **President of CUET Chess Club** – organized 10+ tournaments  
 
 ---
@@ -64,6 +64,8 @@ Turning raw data into actionable insights, automating workflows & building dashb
 
 ---
 
+### 👀 Visitors  
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AshifurRedwan&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/AshifurRedwan/count.svg" alt="Visitor Count" />
 </p>
