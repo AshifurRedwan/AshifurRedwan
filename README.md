@@ -1,4 +1,5 @@
-[<img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixid=Mnw…&auto=format&fit=crop&w=1600&q=80" alt="Data Analysis Banner" />]
+<img src="https://plus.unsplash.com/premium_photo-1681487767138-ddf2d67b35c1?q=80&w=1255&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Data Analysis Banner" />
+
 ### Hi there 👋, my name is Ashifur Redwan  
 #### Data Analytics & Machine Learning Enthusiast  
 
