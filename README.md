@@ -1,4 +1,4 @@
-<img src="https://github.com/AshifurRedwan.png" alt="Data Analyst" style="width:100%; max-height:240px; object-fit:cover;" />
+<img src="https://source.unsplash.com/1600x900/?data-analysis,technology" alt="Data Analysis Banner" />
 
 ### Hi there 👋, my name is Ashifur Redwan  
 #### Data Analytics & Machine Learning Enthusiast  
