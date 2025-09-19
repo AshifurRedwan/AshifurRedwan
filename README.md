@@ -1,4 +1,4 @@
-![Data Analyst](https://media.licdn.com/dms/image/D5616AQEaBAV8FT3I3w/profile-displaybackgroundimage-shrink_350_1400/0/1686184543723?e=1717632000&v=beta&t=jyHgwx3vbigIgQJB-VsWvxGAguAX_jRXBKlGULe4qLc)
+<img src="https://github.com/AshifurRedwan.png" alt="Data Analyst" style="width:100%; max-height:240px; object-fit:cover;" />
 
 ### Hi there 👋, my name is Ashifur Redwan  
 #### Data Analytics & Machine Learning Enthusiast  
@@ -11,7 +11,7 @@ Additionally, I leverage project management tools such as Notion, ClickUp and mi
 Skills: Data Analysis | Machine Learning | Data Visualization | BI Dashboards
 
 # 💫 About Me:
-🔭 I’m currently working on freelance Data Analysis projects on Fiverr  
+🔭 I’m currently working on Data Analysis projects on various platforms  
 👯 I’m looking to collaborate on Data Analytics & Machine Learning projects  
 🤝 I'm seeking mentorship to refine my predictive modeling skills  
 🌱 I’m currently learning SQL, Tableau & advanced Python libraries  
