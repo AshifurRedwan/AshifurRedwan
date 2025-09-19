@@ -64,8 +64,12 @@ Turning raw data into actionable insights, automating workflows & building dashb
 
 ---
 
-### 👀 Visitors  
+### 🏆 Achievements & Languages
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AshifurRedwan/count.svg" alt="Visitor Count" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AshifurRedwan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshifurRedwan&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
