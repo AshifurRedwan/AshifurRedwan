@@ -2,7 +2,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/070/871/015/large_2x/data-analysis-on-transparent-screen-with-cityscape-background-free-photo.jpg" alt="Data Analysis Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Ashifur Redwan</h1>
+<h1 align="center">Hi, I'm Ashifur Redwan!</h1>
 <h3 align="center">📊 Data Analyst | 🛰️ System Engineer | 📈 ML Enthusiast</h3>
 
 <p align="center">
