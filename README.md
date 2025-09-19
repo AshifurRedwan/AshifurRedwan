@@ -1,4 +1,4 @@
-<img src="https://plus.unsplash.com/premium_photo-1681487767138-ddf2d67b35c1?q=80&w=1255&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Data Analysis Banner" />
+<img src="https://static.vecteezy.com/system/resources/previews/070/871/015/large_2x/data-analysis-on-transparent-screen-with-cityscape-background-free-photo.jpg" alt="Data Analysis Banner" />
 
 ### Hi there 👋, my name is Ashifur Redwan  
 #### Data Analytics & Machine Learning Enthusiast  
